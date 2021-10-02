@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lorrainedeniece@gmail.com
+	name = lorraine chambers
